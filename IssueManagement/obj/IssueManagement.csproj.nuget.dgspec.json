@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kelly.chang\\Desktop\\demo\\IssueManagement\\IssueManagement.csproj": {}
+    "C:\\Users\\kelly.chang\\Desktop\\demo\\issuemanagement\\IssueManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kelly.chang\\Desktop\\demo\\IssueManagement\\IssueManagement.csproj": {
+    "C:\\Users\\kelly.chang\\Desktop\\demo\\issuemanagement\\IssueManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kelly.chang\\Desktop\\demo\\IssueManagement\\IssueManagement.csproj",
+        "projectUniqueName": "C:\\Users\\kelly.chang\\Desktop\\demo\\issuemanagement\\IssueManagement.csproj",
         "projectName": "IssueManagement",
-        "projectPath": "C:\\Users\\kelly.chang\\Desktop\\demo\\IssueManagement\\IssueManagement.csproj",
+        "projectPath": "C:\\Users\\kelly.chang\\Desktop\\demo\\issuemanagement\\IssueManagement.csproj",
         "packagesPath": "C:\\Users\\kelly.chang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kelly.chang\\Desktop\\demo\\IssueManagement\\obj\\",
+        "outputPath": "C:\\Users\\kelly.chang\\Desktop\\demo\\issuemanagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
